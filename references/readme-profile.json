@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 283｜Era Insignia: keeps the photo and issues its subject as one small space-age institutional badge, as if released by a mid-century science agency — a single motif (a building as a structural sign, a machine as a technological totem, nature as an environmental emblem) inside a circle, shield or ring or as a free insignia outline, in hard-edged colour separation, coarse halftone, offset-print misregistration and engraving lines on paper, in a bold limited palette of deep blue, cosmic purple, warm red, orange-yellow, gold and paper white from the photo, small in generous whitespace with short English words, numbers or mission-style labels in a compact institutional sans-serif. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-283 or asks for a retro-futurist mission patch, commemorative emblem or mid-century institutional badge from a photo.",
+  "short_description": "时代徽章：把照片主体收成一枚像被太空时代机构正式发行过的硬边印刷徽章",
+  "zh-CN": {
+    "name": "时代徽章",
+    "tagline": "把照片主体收成一枚像被太空时代某个机构正式发行过的徽章。",
+    "look": "原照片保留；主体只取一个视觉母题：建筑变成结构符号，人物变成精神象征，机械变成科技图腾，自然变成环境标志。它被放进圆形、盾形或环形边界里，也可以是自由轮廓，但完整得像一枚任务徽章或纪念章。用硬边分色、粗颗粒网点、套色偏差和雕版线画在纸上，颜色是深蓝、宇宙紫、暖红、橙黄、金色和纸白这类鲜明的有限色。徽章小、留白大，配简短的英文词、编号或任务式标注，用紧凑理性的机构感无衬线字。",
+    "traits": ["太空时代徽章", "硬边分色", "机构档案", "纪念构图", "限定色"],
+    "good": [
+      "有纪念意义或结构感的建筑与机械：一座电视塔、一架老飞机、一台望远镜",
+      "能变成象征的自然景物：一座雪山、一轮落日、一片海",
+      "想做成纪念章、活动徽标或俱乐部臂章的旅行与活动照片"
+    ],
+    "poor": [
+      "温柔日常、需要手绘柔软感的照片，这里是硬边印刷的庄重感",
+      "需要保留完整场景或多人细节的照片",
+      "想要电影科幻、赛博朋克、霓虹、渐变或 3D Logo 的需求"
+    ]
+  },
+  "en": {
+    "name": "Era Insignia",
+    "tagline": "Issues the subject of your photo as one badge that looks officially released by a space-age institution.",
+    "look": "Your photo stays; the subject is reduced to one motif: a building becomes a structural sign, a person a spiritual emblem, a machine a technological totem, nature an environmental mark. It sits inside a circle, shield or ring, or as a free outline, but is complete like a mission patch or commemorative medal. It is printed in hard-edged colour separation, coarse halftone, slight misregistration and engraved lines on paper, in a bold limited palette such as deep blue, cosmic purple, warm red, orange-yellow, gold and paper white. The badge is small with plenty of whitespace and carries short English words, numbers or mission-style labels in a compact institutional sans-serif.",
+    "traits": ["Space-age badge", "Hard-edged colour separation", "Institutional archive", "Commemorative layout", "Limited palette"],
+    "good": [
+      "Monumental or structural buildings and machines: a TV tower, a vintage aeroplane, a telescope",
+      "Natural scenes that can become emblems: a snow peak, a setting sun, the open sea",
+      "Travel or event photos you want as a commemorative medal, event logo or club patch"
+    ],
+    "poor": [
+      "Gentle everyday photos that call for a soft hand-drawn feel, since this is solemn hard-edged print",
+      "Photos that need the full scene or several people in detail",
+      "Requests for movie sci-fi, cyberpunk, neon, gradients or a 3D logo"
+    ]
+  },
+  "ja": {
+    "name": "時代の徽章",
+    "tagline": "写真の主役を、宇宙時代のどこかの機関が正式に発行したような徽章にします。",
+    "look": "元の写真は残し、主役からモチーフをひとつだけ取り出します。建物は構造の記号に、人物は精神の象徴に、機械は科学技術のトーテムに、自然は環境の標章になります。円、盾、リングの枠に収めるか、自由な輪郭のままでも、ミッションパッチや記念章のように完結した形です。硬いエッジの色分け、粗い網点、版ずれ、彫版の線で紙に刷られ、色は深い青、宇宙の紫、暖かな赤、橙黄、金、紙の白といった力強い少数色です。徽章は小さく余白は大きく、短い英単語、番号、ミッション風の表記がコンパクトで理知的な機関らしいサンセリフで入ります。",
+    "traits": ["宇宙時代の徽章", "硬いエッジの色分け", "機関のアーカイブ", "記念章の構図", "限られた色"],
+    "good": [
+      "記念碑的、構造的な建物や機械：テレビ塔、古い飛行機、望遠鏡",
+      "象徴になりうる自然：雪山、沈む夕日、海原",
+      "記念章、イベントのロゴ、クラブのワッペンにしたい旅行やイベントの写真"
+    ],
+    "poor": [
+      "やわらかな手描き感が合う穏やかな日常写真（ここは硬いエッジの印刷の重厚さです）",
+      "場面全体や複数の人の細部を残したい写真",
+      "映画のようなSF、サイバーパンク、ネオン、グラデーション、3Dロゴを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "시대의 휘장",
+    "tagline": "사진 속 주인공을 우주 시대의 어느 기관이 정식으로 발행한 듯한 휘장으로 만듭니다.",
+    "look": "원본 사진은 남기고, 주인공에서 모티프 하나만 뽑습니다. 건물은 구조의 기호로, 사람은 정신의 상징으로, 기계는 과학 기술의 토템으로, 자연은 환경의 표지로 바뀝니다. 원형, 방패형, 고리형 테두리 안에 넣거나 자유로운 윤곽으로 두되, 임무 패치나 기념 메달처럼 완결된 형태입니다. 각진 분판, 굵은 망점, 판 어긋남, 조각 선으로 종이에 인쇄되며, 색은 짙은 파랑, 우주 보라, 따뜻한 빨강, 주황빛 노랑, 금색, 종이 흰색 같은 강렬하고 제한된 색입니다. 휘장은 작고 여백은 넓으며, 짧은 영어 단어, 번호, 임무식 표기가 간결하고 이성적인 기관풍 산세리프로 들어갑니다.",
+    "traits": ["우주 시대 휘장", "각진 분판", "기관 아카이브", "기념 구도", "제한된 색"],
+    "good": [
+      "기념비적이거나 구조적인 건물과 기계: 방송탑, 오래된 비행기, 망원경",
+      "상징으로 바뀔 수 있는 자연: 설산, 지는 해, 넓은 바다",
+      "기념 메달, 행사 로고, 동호회 패치로 쓰고 싶은 여행 사진과 행사 사진"
+    ],
+    "poor": [
+      "부드러운 손그림이 어울리는 잔잔한 일상 사진(이 스타일은 각진 인쇄의 무게감입니다)",
+      "전체 장면이나 여러 사람의 디테일을 살려야 하는 사진",
+      "영화 같은 SF, 사이버펑크, 네온, 그라데이션, 3D 로고를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "شارة العصر",
+    "tagline": "يصدر العنصر الرئيسي في صورتك شارةً تبدو كأن مؤسسة من عصر الفضاء أصدرتها رسمياً.",
+    "look": "تبقى صورتك، ويُختزل العنصر في موضوع بصري واحد: يصير المبنى علامة بنيوية، والشخص رمزاً معنوياً، والآلة طوطماً تقنياً، والطبيعة شارة بيئية. يوضع داخل دائرة أو درع أو حلقة، أو يبقى بخط خارجي حر، لكنه مكتمل كرقعة مهمة فضائية أو وسام تذكاري. يُطبع بفصل لوني حاد الحواف وتنقيط شبكي خشن وانزياح طفيف في التسجيل وخطوط محفورة على الورق، بلوحة ألوان محدودة جريئة كالأزرق الداكن والبنفسجي الكوني والأحمر الدافئ والأصفر البرتقالي والذهبي وأبيض الورق. الشارة صغيرة وحولها فراغ واسع، وتحمل كلمات إنجليزية قصيرة أو أرقاماً أو تسميات على طريقة المهمات بخط مؤسسي مضغوط بلا زوائد.",
+    "traits": ["شارة عصر الفضاء", "فصل لوني حاد", "أرشيف مؤسسي", "تكوين تذكاري", "ألوان محدودة"],
+    "good": [
+      "مبانٍ وآلات ذات طابع نُصبي أو بنيوي: برج تلفزيون، طائرة قديمة، تلسكوب",
+      "مشاهد طبيعية يمكن أن تصير شعاراً: قمة ثلجية، شمس تغرب، البحر المفتوح",
+      "صور سفر أو مناسبات تريدها وساماً تذكارياً أو شعار فعالية أو رقعة نادٍ"
+    ],
+    "poor": [
+      "صور يومية هادئة تناسبها نعومة الرسم اليدوي، فهذا أسلوب طباعة رصين حاد الحواف",
+      "صور تحتاج المشهد كاملاً أو تفاصيل عدة أشخاص",
+      "طلب خيال علمي سينمائي أو سايبربانك أو نيون أو تدرجات أو شعار ثلاثي الأبعاد"
+    ]
+  }
+}

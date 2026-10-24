@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-283
-description: "Create XXD Panel 283 raster artwork: a faithful photograph paired with one mid-century institutional badge, hard-edged color, halftone and a large quiet field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-283 or asks for this 时代徽章 style."
+description: "XXD Panel 283｜Era Insignia: keeps the photo and issues its subject as one small space-age institutional badge, as if released by a mid-century science agency — a single motif (a building as a structural sign, a machine as a technological totem, nature as an environmental emblem) inside a circle, shield or ring or as a free insignia outline, in hard-edged colour separation, coarse halftone, offset-print misregistration and engraving lines on paper, in a bold limited palette of deep blue, cosmic purple, warm red, orange-yellow, gold and paper white from the photo, small in generous whitespace with short English words, numbers or mission-style labels in a compact institutional sans-serif. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-283 or asks for a retro-futurist mission patch, commemorative emblem or mid-century institutional badge from a photo."
 ---
 
 # XXD Panel 283
